@@ -113,15 +113,15 @@ Now it's time to put it all together and test the Fintech Finder application wit
 ## Results
 
 
-<p align="center" width="50%">
-    <img width="75%" src="x"> 
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/blockchain_wallet/blob/main/Images/purchased.png"> 
 </p>
 
-<p align="center" width="50%">
-    <img width="75%" src="x"> 
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/blockchain_wallet/blob/main/Images/tx_hash.png"> 
 </p>
 
-<p align="center" width="50%">
-    <img width="75%" src="x"> 
+<p align="center" width="75%">
+    <img width="75%" src="https://github.com/StrawhatRA/blockchain_wallet/blob/main/Images/new_balance.png"> 
 </p>
 
