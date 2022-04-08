@@ -110,12 +110,18 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 ---
 
-## Submission
+## Results
 
-* Upload the files for this assignment to your GitHub repository.
 
-* Submit the link to your GitHub repo on Bootcamp Spot.
+<p align="center" width="50%">
+    <img width="75%" src="x"> 
+</p>
 
----
+<p align="center" width="50%">
+    <img width="75%" src="x"> 
+</p>
 
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+<p align="center" width="50%">
+    <img width="75%" src="x"> 
+</p>
+
